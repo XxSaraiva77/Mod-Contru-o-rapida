@@ -6,8 +6,7 @@
                 "movement": 2,
                 "requiredTech": "Agriculture",
                 "uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-                "cost": 1,
-                "maintenanceConst": 5
+                "cost": 1
         },
         {
                 "name": "Settler",
@@ -36,7 +35,6 @@
                 "unitType": "Sword",
                 "movement": 2,
                 "strength": 8,
-                "maintenanceCost": 10,
                 "cost": 1,
                 "requiredTech": "Agriculture",
                 "obsoleteTech": "Metal Casting",

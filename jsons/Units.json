@@ -6,7 +6,8 @@
                 "movement": 2,
                 "requiredTech": "Agriculture",
                 "uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
-                "cost": 1
+                "cost": 1,
+                "maintenanceConst": 5
         },
         {
                 "name": "Settler",
